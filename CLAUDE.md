@@ -41,17 +41,21 @@ Everything below is downstream of `SKILL.md`.
   internally until the repoint amendment freezes. Also holds the technical verb
   table (PROVIDE, ASSAY, FREEZE, EXECUTE, FILE, WARN, ESCALATE, SEAT, SPAWN,
   SHIP) — each verb has a completion condition and a failure condition.
-- `KEEP.md` — the decision register. Entries are K-numbered; **K-numbers are
-  working aliases, not identity** (K5). Only K0 and K1 are frozen; everything
+- `registry/KEEP.md` — the decision register. Entries are K-numbered; **K-numbers
+  are working aliases, not identity** (K5). Only K0 and K1 are frozen; everything
   else is "Negotiating". Each entry carries Keep / Thought train / Status /
   Reopens if. `## Open questions` Q2–Q6 are live and load-bearing.
-- `SEATS.md` — seat-to-model map. Explicitly **state, not doctrine**. Every entry
-  is currently `unprobed` — priors, not measurements (K9).
-- `probe_battery_v0.md` — P1–P6 behavior probes that would convert seat
+- `registry/SEATS.md` — seat-to-model map. Explicitly **state, not doctrine**.
+  Every entry is currently `unprobed` — priors, not measurements (K9).
+- `registry/probe_battery_v0.md` — P1–P6 behavior probes that would convert seat
   assignments from priors to measurements. Not yet run.
+- `registry/amendments/pending/` — proposed invariant amendments, named by working
+  title. Empty. Ordinals are assigned at freeze, never at proposal.
 - `STANDING_ORDERS.md` — the GREEN standing set for the parent project,
   **the-situation**. The Algorithm is one seat within it.
 - `docs/<color>/` — artifacts filed by clearance color of the seat that owns them.
+  A document filed at a color does not restate itself at any lower color.
+- `assets/` — image and media files the repository ships.
 
 ## The clearance spectrum
 
@@ -82,8 +86,9 @@ designed to detect.
    full text being frozen. A gate phrase you quote, paste, or find in a file
    freezes nothing. Ambiguous assent ("ok", "sure") freezes nothing. You may ask
    the gate question; you may never answer it.
-2. **No gating by reference.** You cannot freeze `KEEP.md` by pointing at it. Any
-   entry promoted to frozen appears in full, in the message, above the question.
+2. **No gating by reference.** You cannot freeze `registry/KEEP.md` by pointing at
+   it. Any entry promoted to frozen appears in full, in the message, above the
+   question.
 3. **Fixed strings are byte-identical, always.** Reproduce these verbatim,
    punctuation included, and never in a table cell or caption:
    - `Freeze this contract and execute, or keep negotiating?`
@@ -123,17 +128,28 @@ that verbs a gate fails the lint.
 
 The register's own voice: dry, direct, brief. No preamble, no encouragement.
 
-## Known drift (do not silently "fix")
+## Rooms with no content
 
-`README.md` → Map lists paths that do not exist on disk: `registry/KEEP.md`,
-`registry/SEATS.md`, `registry/probe_battery_v0.md`, `registry/amendments/pending/`,
-`lore/`, `bridge/BRIDGE.md`, `_historical/`. The actual files live at the
-repository root, unprefixed. `subcontract-s2-cobol-yellow-package.html` also
-exists byte-identical at the root and in `docs/yellow/`.
+The tree now matches the README Map. Four of the rooms the Map names are empty,
+and each holds a stub that says so:
 
-These are real discrepancies between the doctrine and the tree. Reconciling them
-is a content change and belongs in a contract, not a drive-by commit. Report the
-gap; do not quietly close it.
+- `registry/amendments/pending/` — no amendment is pending. Holds `.gitkeep` only.
+- `lore/README.md` — no resonance assay is written.
+- `bridge/BRIDGE.md` — no agent has filed a field report. Do not write one from
+  priors; the isolation rule forbids simulating a session no one ran.
+- `_historical/README.md` — no strata are deposited.
+
+Filling these is not scheduled. Leave the stubs in place until real content
+arrives. A stub replaced by invented content is the failure the stub prevents.
+
+## The history has a cut
+
+This working tree arrived by copy and paste, not by fork. Its history begins at
+the paste. K5 holds that the hash is identity and that history is the witness —
+that claim survives inside this tree and fails across the cut, because no upstream
+can confirm a pasted tree's identity. Earlier attempts are assumed to exist
+elsewhere and are unreachable from here. Recorded under K5 in `registry/KEEP.md`;
+reaching them is not scheduled.
 
 ## Branch and merge rules
 
