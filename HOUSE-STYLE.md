@@ -95,7 +95,7 @@ this style alone adopts nine verbs. SHIP enters with the system that defines its
 - Build the linter. Run it as an assayer: it reports, it never rewrites.
 - Rule 9 outranks the linter. The linter flags; the peer decides.
 
-## Validation — proposed A/B, not yet frozen
+## Validation — proposed A/B (recorded plan)
 - Two editions exist for the test. Edition A: this file, pedagogy included.
   Edition B: the subset, nouns, strings, and tables only. No reason sections.
 - Give each edition to fresh readers, human and model. Same three tasks:
