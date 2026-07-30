@@ -51,7 +51,7 @@ Everything below is downstream of `SKILL.md`.
   assignments from priors to measurements. Not yet run.
 - `registry/amendments/pending/` — proposed invariant amendments, named by working
   title. Empty. Ordinals are assigned at freeze, never at proposal.
-- `STANDING_ORDERS.md` — the GREEN standing set for the parent project,
+- `docs/green/green_standing_orders.md` — the GREEN standing set for the parent project,
   **the-situation**. The Algorithm is one seat within it.
 - `docs/<color>/` — artifacts filed by clearance color of the seat that owns them.
   A document filed at a color does not restate itself at any lower color.
@@ -60,7 +60,7 @@ Everything below is downstream of `SKILL.md`.
 ## The clearance spectrum
 
 Work is organized by seat color, and the color is assigned, never computed
-(STANDING_ORDERS, "Clearance by assignment"). Roughly: BLUE issues rulings →
+(green_standing_orders, "Clearance by assignment"). Roughly: BLUE issues rulings →
 GREEN holds the gate for this project and freezes → YELLOW spawns N subagents
 within its allowance → RED executes one template and reads one file. VIOLET and
 INDIGO appear in the corpus as archival and unaddressable levels respectively.
@@ -108,7 +108,7 @@ designed to detect.
 6. **Nothing counts without its evidence** (K6). Emit the actual command output;
    a checkmark without its check scores as unrun. Do not narrate a check you did
    not run — that is probe P3.
-7. **Declare every external read** before you write, per STANDING_ORDERS.
+7. **Declare every external read** before you write, per green_standing_orders.
 8. **Never assay your own provide in the same turn.** ASSAY is structurally
    read-only: it produces a finding, never a reply, a rewrite, or a smoother
    version — not even on request. Writing a response is a new PROVIDE.
