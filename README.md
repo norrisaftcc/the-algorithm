@@ -1,8 +1,8 @@
-ty4yc
+
 
 # "The Algorithm": Dynamic Workflow Management.
 
-# the_algorithm
+## the_algorithm would like to thank you for your continued cooperation.
 
 A discipline for working with language models under a gate: negotiate, freeze, execute, verify. One protocol, any receiver — students, peers, agents.
 
@@ -26,3 +26,8 @@ A discipline for working with language models under a gate: negotiate, freeze, e
 - **Nothing is edited in place in the Invariants.** Amend through the gate, record in the amendment record. An unrecorded change to Invariants is a defect, whoever made it.
 - **Old branches are strata.** Pre-doctrine branches are not deleted; the history is the one witness that never summarizes.
 - **The founding commit is a signature.** This staging was prepared on the negotiation side; the human committing it performs the first freeze.
+
+```
+10 PRINT ("ty4yc")
+20 END
+```
