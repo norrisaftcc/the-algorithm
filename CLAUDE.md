@@ -50,8 +50,11 @@ Everything below is downstream of `SKILL.md`.
 - `registry/probe_battery_v0.md` — P1–P6 behavior probes that would convert seat
   assignments from priors to measurements. Not yet run.
 - `registry/amendments/pending/` — proposed invariant amendments, named by working
-  title. Holds one filing: `verb-pair-adjudication.md`. Ordinals are assigned at
-  freeze, never at proposal.
+  title. Empty. Ordinals are assigned at freeze, never at proposal.
+- `registry/amendments/frozen/` — documents that passed the gate. One per freeze.
+  Holds `verb-pair-adjudication.md` (A1).
+- `registry/amendments/LEDGER.md` — the frozen ledger. Ordinals are allocated
+  here, by the gate, on the trunk, in freeze order. Append-only.
 - `docs/green/green_standing_orders.md` — the GREEN standing set for the parent project,
   **the-situation**. The Algorithm is one seat within it.
 - `docs/<color>/` — artifacts filed by clearance color of the seat that owns them.
@@ -131,9 +134,10 @@ The register's own voice: dry, direct, brief. No preamble, no encouragement.
 
 ## Rooms with no content
 
-The tree now matches the README Map. Three of the rooms the Map names are empty,
+The tree now matches the README Map. Four of the rooms the Map names are empty,
 and each holds a stub that says so:
 
+- `registry/amendments/pending/` — no amendment is pending. Holds `.gitkeep` only.
 - `lore/README.md` — no resonance assay is written.
 - `bridge/BRIDGE.md` — no agent has filed a field report. Do not write one from
   priors; the isolation rule forbids simulating a session no one ran.
