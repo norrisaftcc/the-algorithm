@@ -11,6 +11,8 @@ Strata deposited, in deposit order:
    the file's header, so a scribe reading it does not treat it as a live gate.
 2. `the_intern/` — agent doctrine bag from github.com/norrisaftcc/the_intern.
    See its `PROVENANCE.md` for source hash, quarantine rule, and file hashes.
+3. `course-csc134-template/` — agent doctrine and ADR register from
+   github.com/norrisaftcc/course-csc134-template. See its `PROVENANCE.md`.
 
 ## The rule this directory exists to hold
 Append only. Never edit a stratum in place. Never delete one.
