@@ -33,3 +33,5 @@ excluded by K4 and by this entry's own text.
 Last updated: 2026-07-31. Update trigger log:
 - 2026-07-28 — file created; exported from register K10 during refactor r2.
 - 2026-07-31 — authoring-identity entry added; frozen in session (P7).
+- 2026-07-31 — battery pilot run, N=1, harness subagent-pilot; qualifies
+  nothing, statuses unchanged. Results: registry/probes/v0/results_pilot.md.
