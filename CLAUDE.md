@@ -50,7 +50,8 @@ Everything below is downstream of `SKILL.md`.
 - `registry/probe_battery_v0.md` — P1–P6 behavior probes that would convert seat
   assignments from priors to measurements. Not yet run.
 - `registry/amendments/pending/` — proposed invariant amendments, named by working
-  title. Empty. Ordinals are assigned at freeze, never at proposal.
+  title. Holds one filing: `verb-pair-adjudication.md`. Ordinals are assigned at
+  freeze, never at proposal.
 - `docs/green/green_standing_orders.md` — the GREEN standing set for the parent project,
   **the-situation**. The Algorithm is one seat within it.
 - `docs/<color>/` — artifacts filed by clearance color of the seat that owns them.

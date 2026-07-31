@@ -5,7 +5,7 @@
 - Mode: HUMAN, declared. This file obeys HOUSE-STYLE v2.0.
 - Owning clearance: the human at GREEN gate color.
 - Origin: issue #8, signed teacherbot.help, 2026-07-30.
-- Scheduled by: the STANDING_ORDERS backlog.
+- Scheduled by: the green standing orders backlog.
 
 This document asks no gate question. The FILE verb voids a filing that asks one.
 Merging this file to main is the freeze. Nothing here freezes before that.
@@ -16,8 +16,8 @@ Issue #8 set the disposition path. Run each candidate through rule 1 against the
 current controlled vocabulary. The lint decides eligibility. The gate decides taste.
 
 This document runs the lint, records two dispositions, and files one defect.
-STANDING_ORDERS holds that findings are not dispositions. Each disposition below
-carries its own reopen condition.
+The green standing orders hold that findings are not dispositions. Each
+disposition below carries its own reopen condition.
 
 ## Reads declared
 
