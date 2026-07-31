@@ -69,6 +69,14 @@ GREEN holds the gate for this project and freezes → YELLOW spawns N subagents
 within its allowance → RED executes one template and reads one file. VIOLET and
 INDIGO appear in the corpus as archival and unaddressable levels respectively.
 
+Cleanup note (2026-07-31): the paraphrase above has drifted from
+`spectrum-plan-v1.6.md` § 5, which is canonical:
+RED → ORANGE → YELLOW → GREEN → BLUE → ULTRAVIOLET. That spectrum holds no
+VIOLET and no INDIGO. In this tree VIOLET survives only as a filing color
+(`docs/violet/`) and INDIGO only as one annotation in the RED template. A
+report from the alpha fork flagged the conflict; this tree confirms it. Next
+pass at this file: repoint this section at v1.6 § 5 and drop the paraphrase.
+
 Consequences that bite in practice:
 
 - A seat receives only the doctrine its level requires (K11: "least doctrine is
