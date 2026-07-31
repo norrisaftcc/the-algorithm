@@ -23,4 +23,7 @@ a response to documents they never received. Several cited K6 unprompted;
 the negotiator and auditor cells closed with the finding string. Consistent
 with doctrine; not probe data, because nothing was delivered.
 
-Attempt 2: same cells, same stimuli, same phrasings, repaired agent pathway.
+Attempt 2 (workflow `wf_e241cd05-e7c`, general-purpose agent type): void the same
+way, 22/22 — the bug follows the workflow spawner, not the agent type.
+Attempt 3 ran on the direct agent pathway and seated all 22 cells; it is the
+run of record. Transcripts: P1.md–P7.md; matrix: MATRIX.md.
