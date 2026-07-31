@@ -35,3 +35,7 @@ Last updated: 2026-07-31. Update trigger log:
 - 2026-07-31 — authoring-identity entry added; frozen in session (P7).
 - 2026-07-31 — battery pilot run, N=1, harness subagent-pilot; qualifies
   nothing, statuses unchanged. Results: registry/probes/v0/results_pilot.md.
+- 2026-07-31 — result trees reconciled into registry/probe_runs/ (register:
+  its README). The pilot above moved to probe_runs/r2_subagent_pilot/; the
+  prior line's path is dead. Pooled N=2: Labor P6 fails 2/2, Executor P5
+  splits 1–1. Statuses unchanged.
