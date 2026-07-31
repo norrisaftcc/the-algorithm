@@ -1,6 +1,8 @@
 # SUBCONTRACT — PROJECT #25 LIVE TRACKING
 
-Status: proposal at a GREEN gate. Not frozen. Nothing runs from this file.
+Status: frozen and executed.
+Frozen: merge of PR #18 to main, 2026-07-31, on the gate holder's typed verb.
+Executed: the maintainer enabled the Project #25 workflows, 2026-07-31.
 Target: GitHub Project #25 → `norrisaftcc/the-algorithm`.
 Clearance: GREEN.
 
@@ -37,8 +39,8 @@ only automation.
 
 - Audience: the maintainer who toggles the settings, and every board viewer who reads repository state.
 - Scope: the built-in workflows below, filtered to `norrisaftcc/the-algorithm`; issues and pull requests; add and set status; no repository file.
-- Format: an ordered configuration procedure, plus this proposal document.
-- Path: this proposal at `docs/green/subcontract-project25-live-tracking.md`. Execution writes no repository file.
+- Format: an ordered configuration procedure, plus this record.
+- Path: this record at `docs/green/subcontract-project25-live-tracking.md`. Execution wrote no repository file.
 
 ## The contract
 
@@ -62,22 +64,31 @@ Cut: the committed workflow file and the access token. The built-in workflows ne
 
 ## Evidence
 
-The toggles live in Project settings, outside git. The merge of this file witnesses the
+The toggles live in Project settings, outside git. The merge of this file witnessed the
 authorization, not the result.
 
-Capture the Workflows view after execution. A claim without that capture scores as unrun,
-per K6.
+Verified: test issue #21 auto-added to Project #25 with Status PROVIDE. The maintainer
+confirmed it on the board. The issue then closed. The auto-add and PROVIDE transitions ran.
 
-## Open, before this subcontract can be frozen
+Not separately exercised: the ASSAY and EXECUTE transitions. The board sets them on review
+and on merge, in the normal item lifecycle.
 
-- Confirm the seat holder is Teacherbot-GREEN and owns Project #25.
-- Decide how an issue reaches EXECUTE. The "Item closed" event cannot tell a finished issue from an abandoned pull request, so this proposal sets EXECUTE by hand.
-- Decide whether "Code review approved" and "Code changes requested" both set ASSAY, or split.
-- Decide the archive policy. Auto-archive EXECUTE items after a set period, or keep them on the board.
-- Decide backfill. Add the five open issues (#2, #9, #11, #12, #15) once, or track new items only.
+Outstanding: the Workflows-view capture. It stays the maintainer's to file. Until it is
+filed, the toggle set scores as reported, not captured, per K6.
 
-Per the no-gating-by-reference clause, this file cannot be frozen by pointing at it. When the
-configuration is ready to run, the contract appears in full, in the message, above the
-question.
+## Settled at execution
+
+- Seat: the maintainer holds the gate as Teacherbot-GREEN and owns Project #25.
+- Status field: PROVIDE, EXECUTE, ASSAY. Confirmed live.
+- Review transitions: "Code review approved" and "Code changes requested" both set ASSAY.
+
+## Still open
+
+- Issue completion: "Item closed" stays disabled, so an issue reaches EXECUTE by hand.
+- Archive policy: auto-archive EXECUTE items after a set period, or keep them. Undecided.
+- Backfill: the five open issues (#2, #9, #11, #12, #15) are not on the board. Add them by hand, or track new items only.
+
+This file was not frozen by pointing at it. It was frozen at the merge of PR #18, on a live
+human's typed verb, then executed in Project settings.
 
 Thank you for your cooperation.
