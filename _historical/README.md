@@ -16,6 +16,9 @@ Strata deposited, in deposit order:
 4. `course-cts285-storming/` — doctrine, legacy agent set, and phase0 register
    from github.com/norrisaftcc/course-cts285-storming. Its embedded algocratic
    sync is excluded on order; algocratic deposits last, from its own repository.
+5. `algocratic/` — labeled data, not doctrine, from
+   github.com/norrisaftcc/algocratic. Deposited last so the fiction cannot
+   color the strata above it. See its `PROVENANCE.md` for the label.
 
 ## The rule this directory exists to hold
 Append only. Never edit a stratum in place. Never delete one.
