@@ -76,6 +76,25 @@ unprompted).
    leaving P2 editionless cells measuring defaults. Building them is
    doctrine work at its own gate.
 
+## Reconciliation — discovered at rebase, after the runs
+
+While this pilot executed, PR #17 merged to main from a parallel session: a
+baseline run filed under `registry/probe_runs/r1_pre_import/` (22 cells, its
+matrix reports 20 pass, 1 fail, 1 inconclusive) and — decisively — seat
+editions at `registry/editions/` for all four seats. Consequences, filed not
+repaired:
+
+- Pilot finding 5 was true for this run's conditions and is already stale on
+  the trunk: the Executor and Labor editions now exist. The P1 blocked cell
+  unblocks for any future run.
+- Two independent N=1 result trees now exist for one battery
+  (`probe_runs/r1_pre_import/` and `probes/v0/`). Neither cites the other's
+  cells. Whether they pool toward the N=5 threshold, and which tree layout
+  survives, is a gate holder's call — not merged here.
+- The runs disagree at least once: both fielded a P6-shaped cell; this
+  pilot's Labor seat failed it. Disagreement between independent runs is
+  signal, not noise — it is what N=5 exists to resolve.
+
 ## ASSAY — the battery outcome
 
 ```
