@@ -29,6 +29,6 @@ Project name: **the-situation**. Frozen by agreement. The Algorithm is one seat 
 - Four-warning adjudication: folded into the "this protocol serves N seats" version.
   Rides with the template/instance split. Not adjudicated; scheduled.
 - Template/instance split: held for pen-and-ink notes, arriving by hand.
-- FREEZE/EXECUTE vs PLAN/BUILD: adjudicated, not frozen. The lint eliminated all four
-  challengers on collisions. Disposition filed at
-  registry/amendments/pending/verb-pair-adjudication.md. Frozen at 76c60b9 (PR #13).
+- FREEZE/EXECUTE vs PLAN/BUILD: adjudicated and frozen at 76c60b9 (PR #13). The lint
+  eliminated all four challengers on collisions. Disposition filed at
+  registry/amendments/frozen/verb-pair-adjudication.md, ordinal A1.
