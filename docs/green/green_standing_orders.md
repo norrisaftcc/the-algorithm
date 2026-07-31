@@ -31,4 +31,4 @@ Project name: **the-situation**. Frozen by agreement. The Algorithm is one seat 
 - Template/instance split: held for pen-and-ink notes, arriving by hand.
 - FREEZE/EXECUTE vs PLAN/BUILD: adjudicated, not frozen. The lint eliminated all four
   challengers on collisions. Disposition filed at
-  registry/amendments/pending/verb-pair-adjudication.md. Awaiting the gate.
+  registry/amendments/pending/verb-pair-adjudication.md. Frozen at 76c60b9 (PR #13).
