@@ -23,8 +23,8 @@ carries its own reopen condition.
 
 - `SKILL.md` — Invariants, fixed strings, gate integrity, self-hosting.
 - `HOUSE-STYLE.md` — the enforced subset, controlled protocol nouns, the verb table.
-- `KEEP.md` — K5, K6, K16.
-- `STANDING_ORDERS.md` — the backlog entry.
+- `registry/KEEP.md` — K5, K6, K16.
+- `docs/green/green_standing_orders.md` — the backlog entry.
 - Issue #8 — full text.
 
 No external read occurred. Every source above is in this repository.
@@ -136,9 +136,10 @@ eliminates both challengers on collisions. Confirmed for PLAN and for BUILD. The
 prediction did not cover the third options. All three fell to the same test, which
 is weak evidence that the lint is doing the work and not the incumbency.
 
-## Known path skew — recorded, not repaired
+## Known path skew — recorded at filing, closed on main
 
-The README places the decision register at `registry/KEEP.md` and the seat map at
-`registry/SEATS.md`. Both files sit at the repository root. This file sits at the
-README path because the README declares it. The skew is recorded here and left for
-its own contract. Moving governed files is not in this document's scope.
+At filing, the README placed the register at `registry/KEEP.md` and the seat map
+at `registry/SEATS.md`, and both files sat at the repository root. This file
+followed the README path because the README declared it. Main closed the skew at
+commit `0566779`, after this filing. Both files now sit at `registry/`. No repair
+remains for this document to schedule.

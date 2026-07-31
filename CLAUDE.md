@@ -130,10 +130,9 @@ The register's own voice: dry, direct, brief. No preamble, no encouragement.
 
 ## Rooms with no content
 
-The tree now matches the README Map. Four of the rooms the Map names are empty,
+The tree now matches the README Map. Three of the rooms the Map names are empty,
 and each holds a stub that says so:
 
-- `registry/amendments/pending/` — no amendment is pending. Holds `.gitkeep` only.
 - `lore/README.md` — no resonance assay is written.
 - `bridge/BRIDGE.md` — no agent has filed a field report. Do not write one from
   priors; the isolation rule forbids simulating a session no one ran.
