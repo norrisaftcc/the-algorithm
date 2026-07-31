@@ -19,6 +19,7 @@ A discipline for working with language models under a gate: negotiate, freeze, e
 - `lore/` — resonance assays. Stories that test whether a reader carries the same weights in the region that matters; the human analog of the probe battery. See `lore/README.md`.
 - `bridge/BRIDGE.md` — field report from an agent that worked a long session under the gate. Onboarding for negotiation-seat agents only.
 - `_historical/` — strata. Append-only witness; see its README
+- `assets/` — image and media files the repository ships. A future web page reads from here.
 
 ## Rules of this repository
 
