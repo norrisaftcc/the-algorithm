@@ -4,9 +4,13 @@
 Strata. An append-only witness.
 
 ## Status
-One stratum deposited: `spectrum-plan-v1.2.md`, the superseded SPECTRUM plan fossil. It
-sits above the paste cut recorded below. Its quoted freeze phrase is marked as recorded
-data in the file's header, so a scribe reading it does not treat it as a live gate.
+Strata deposited, in deposit order:
+
+1. `spectrum-plan-v1.2.md` — the superseded SPECTRUM plan fossil. It sits above the
+   paste cut recorded below. Its quoted freeze phrase is marked as recorded data in
+   the file's header, so a scribe reading it does not treat it as a live gate.
+2. `the_intern/` — agent doctrine bag from github.com/norrisaftcc/the_intern.
+   See its `PROVENANCE.md` for source hash, quarantine rule, and file hashes.
 
 ## The rule this directory exists to hold
 Append only. Never edit a stratum in place. Never delete one.
