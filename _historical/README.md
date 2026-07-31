@@ -13,6 +13,9 @@ Strata deposited, in deposit order:
    See its `PROVENANCE.md` for source hash, quarantine rule, and file hashes.
 3. `course-csc134-template/` — agent doctrine and ADR register from
    github.com/norrisaftcc/course-csc134-template. See its `PROVENANCE.md`.
+4. `course-cts285-storming/` — doctrine, legacy agent set, and phase0 register
+   from github.com/norrisaftcc/course-cts285-storming. Its embedded algocratic
+   sync is excluded on order; algocratic deposits last, from its own repository.
 
 ## The rule this directory exists to hold
 Append only. Never edit a stratum in place. Never delete one.
