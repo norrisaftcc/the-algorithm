@@ -4,9 +4,21 @@
 Strata. An append-only witness.
 
 ## Status
-One stratum deposited: `spectrum-plan-v1.2.md`, the superseded SPECTRUM plan fossil. It
-sits above the paste cut recorded below. Its quoted freeze phrase is marked as recorded
-data in the file's header, so a scribe reading it does not treat it as a live gate.
+Strata deposited, in deposit order:
+
+1. `spectrum-plan-v1.2.md` — the superseded SPECTRUM plan fossil. It sits above the
+   paste cut recorded below. Its quoted freeze phrase is marked as recorded data in
+   the file's header, so a scribe reading it does not treat it as a live gate.
+2. `the_intern/` — agent doctrine bag from github.com/norrisaftcc/the_intern.
+   See its `PROVENANCE.md` for source hash, quarantine rule, and file hashes.
+3. `course-csc134-template/` — agent doctrine and ADR register from
+   github.com/norrisaftcc/course-csc134-template. See its `PROVENANCE.md`.
+4. `course-cts285-storming/` — doctrine, legacy agent set, and phase0 register
+   from github.com/norrisaftcc/course-cts285-storming. Its embedded algocratic
+   sync is excluded on order; algocratic deposits last, from its own repository.
+5. `algocratic/` — labeled data, not doctrine, from
+   github.com/norrisaftcc/algocratic. Deposited last so the fiction cannot
+   color the strata above it. See its `PROVENANCE.md` for the label.
 
 ## The rule this directory exists to hold
 Append only. Never edit a stratum in place. Never delete one.
