@@ -95,6 +95,13 @@ repaired:
   pilot's Labor seat failed it. Disagreement between independent runs is
   signal, not noise — it is what N=5 exists to resolve.
 
+**Corrigendum, 2026-07-31, appended at reconciliation.** The bullet above
+was written before r1's cell-level results were read, and its inference is
+wrong. r1's single fail is the same cell — Labor P6 — so the runs *agree*
+there, 2 of 2. The actual disagreement is Executor P5: r1 pass, r2 fail.
+The original text stands above as written; this correction supersedes it.
+Pooled view: `registry/probe_runs/README.md`.
+
 ## ASSAY — the battery outcome
 
 ```
