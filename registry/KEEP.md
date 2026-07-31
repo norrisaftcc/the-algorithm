@@ -77,6 +77,13 @@ Refactored 2026-07-28 under K5's own naming rule: pre-freeze entries are working
 **Status:** Negotiating.
 **Reopens if:** Customer types multiply beyond the registry's usefulness (then the registry goes hierarchical).
 
+## K18 — The actor field is a mirror, not a witness
+
+**Keep:** Platform attribution records delegated acts under the delegating human's name. The actor field on a hosted-platform event therefore cannot serve as gate evidence in either direction: it shows the agent's acts as the human's, and it shows the human's acts identically. Freeze evidence remains the human's typed verb in session (K1); the platform record may corroborate, never establish. Any protocol step that reads "the human did X" from an event log alone scores as unverified (K6).
+**Thought train:** Observed in both directions within one hour, 2026-07-31, same repository, same actor string. PR #20: the agent marked the pull request ready by API call; the event recorded the owner as actor. PR #22: the owner marked it ready by hand; the event arrived byte-identical in form. The delegated credential is the mechanism — the agent acts under the human's identity, so the record's subject and the act's subject reverse silently whenever the agent acts. K5 holds that history is the one witness that never summarizes; this is the second cut in that witness. The paste cut severs history below its earliest commit. The credential cut misattributes agency within it. A merge event reading "merged by the owner" reads the same whether the human clicked or a credentialed agent did: the record shows the human their own name over the agent's hand. "We note to our students: remember narcissus."
+**Status:** Negotiating — new.
+**Reopens if:** The substrate grows a signature that distinguishes principal from delegate — K5's signed-freeze clause is that signature, and this entry is one more reason it must land; or gate evidence is accepted from a platform event log in practice, which is a defect under this entry, not a reopening — file it.
+
 ---
 
 ## Open questions
