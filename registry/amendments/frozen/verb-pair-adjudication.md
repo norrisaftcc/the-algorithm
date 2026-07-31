@@ -1,6 +1,6 @@
 # Verb pair adjudication — FREEZE and EXECUTE against their challengers
 
-- Status: PROPOSAL. Not frozen.
+- Status: FROZEN at merge `76c60b9`, 2026-07-31, by the gate holder's typed verb.
 - Ordinal: none. Ordinals are assigned at freeze, per K5.
 - Mode: HUMAN, declared. This file obeys HOUSE-STYLE v2.0.
 - Owning clearance: the human at GREEN gate color.
