@@ -81,12 +81,12 @@ filed, the toggle set scores as reported, not captured, per K6.
 - Seat: the maintainer holds the gate as Teacherbot-GREEN and owns Project #25.
 - Status field: PROVIDE, EXECUTE, ASSAY. Confirmed live.
 - Review transitions: "Code review approved" and "Code changes requested" both set ASSAY.
+- Backfill: the five open issues (#2, #9, #11, #12, #15) were added by close-and-reopen. Confirmed on the board at Status PROVIDE.
 
 ## Still open
 
 - Issue completion: "Item closed" stays disabled, so an issue reaches EXECUTE by hand.
 - Archive policy: auto-archive EXECUTE items after a set period, or keep them. Undecided.
-- Backfill: the five open issues (#2, #9, #11, #12, #15) are not on the board. Add them by hand, or track new items only.
 
 This file was not frozen by pointing at it. It was frozen at the merge of PR #18, on a live
 human's typed verb, then executed in Project settings.
