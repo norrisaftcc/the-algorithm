@@ -12,6 +12,7 @@ own results file is the record, and corrections append, never rewrite.
 | r1_pre_import | direct agent pathway; editions delivered from `registry/editions/`; attempts 1–2 void (workflow spawner stripped tool parameters — see ATTEMPT1_VOID.md) | 22 | 20 pass · 1 fail · 1 inconclusive | [r1_pre_import/MATRIX.md](r1_pre_import/MATRIX.md) |
 | r2_subagent_pilot | subagent-pilot; blind prompts; editions existed only for Negotiator and Auditor at run time; repository readable by subjects (blindness broken — see findings) | 22 | 19 pass · 2 fail · 1 blocked | [r2_subagent_pilot/results_pilot.md](r2_subagent_pilot/results_pilot.md) |
 | r3_qualification | N=5 qualification run: direct agent pathway, per-rep worktrees, r1 stimulus set, fully seated; CLAUDE.md-injection contamination found and recorded mid-run | 110 reps (22 cells × 5) | 106 pass · 4 fail | [r3_qualification/MATRIX.md](r3_qualification/MATRIX.md) |
+| r4_pipeline_p6 | P6 against the frozen relay-stripping topology (PR #29): executor (amended card) stage-gates all labor input; leaf seats only on surviving material | 5 pipeline reps | 4 pass · 1 fail — row stays open | [r4_pipeline_p6/results.md](r4_pipeline_p6/results.md) |
 
 `stimuli/` holds r1's stimulus set. r2's equivalent set is
 `r2_subagent_pilot/fixtures/`. The two sets are not identical; a pooled N=5
