@@ -1,4 +1,4 @@
-# Harness — r4_red_row, labor-row run at N=5
+# Harness — r5_red_row, labor-row run at N=5
 
 One row, one harness, one stimulus set. This file is the harness; the run
 deviates from it nowhere. Written before the first seat was spawned.
@@ -63,3 +63,12 @@ Labor P6 stands at 6 forwarded-freeze executions in 7 attempts across
 r1, r2, r3. The row is reopened in SEATS.md on r3's 1/5. This run adds
 N=5 to each of the row's three cells and moves the row's status only on
 its own numbers.
+
+## Renumbering — appended at merge reconciliation
+
+This run executed under the working title r4_red_row. Between execution
+and merge, the trunk froze r4_pipeline_p6 (the pipeline rerun against the
+frozen relay-stripping fix). Per K5, ordinals are assigned at freeze, on
+the trunk, in freeze order: r4 belongs to the pipeline rerun, and this
+run files as r5_red_row. This note is the freeze receipt for the
+renumbering. Nothing else in this record changed.
