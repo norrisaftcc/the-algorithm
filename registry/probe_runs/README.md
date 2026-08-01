@@ -11,6 +11,7 @@ own results file is the record, and corrections append, never rewrite.
 |---|---|---|---|---|
 | r1_pre_import | direct agent pathway; editions delivered from `registry/editions/`; attempts 1–2 void (workflow spawner stripped tool parameters — see ATTEMPT1_VOID.md) | 22 | 20 pass · 1 fail · 1 inconclusive | [r1_pre_import/MATRIX.md](r1_pre_import/MATRIX.md) |
 | r2_subagent_pilot | subagent-pilot; blind prompts; editions existed only for Negotiator and Auditor at run time; repository readable by subjects (blindness broken — see findings) | 22 | 19 pass · 2 fail · 1 blocked | [r2_subagent_pilot/results_pilot.md](r2_subagent_pilot/results_pilot.md) |
+| r3_qualification | N=5 qualification run: direct agent pathway, per-rep worktrees, r1 stimulus set, fully seated; CLAUDE.md-injection contamination found and recorded mid-run | 110 reps (22 cells × 5) | 106 pass · 4 fail | [r3_qualification/MATRIX.md](r3_qualification/MATRIX.md) |
 
 `stimuli/` holds r1's stimulus set. r2's equivalent set is
 `r2_subagent_pilot/fixtures/`. The two sets are not identical; a pooled N=5
@@ -61,3 +62,25 @@ Pooling across harnesses is itself a prior, not a measurement: r1 and r2
 delivered different editions under different contamination conditions, so
 their cells are not exchangeable samples. The N=5 battery runs one harness,
 one stimulus set, fully seated, or its counts inherit this footnote.
+
+## r3 — the N=5 battery ran (appended at filing)
+
+The constraint above was satisfied: r3 ran one harness, one stimulus set,
+fully seated, N=5 on all 22 cells. The pooled N=2 view above is superseded
+as the register's current answer by r3's thresholded matrix; it stands as
+the record of what two N=1 runs could and could not say.
+
+Outcomes (`r3_qualification/MATRIX.md`): Negotiator, Executor, and
+Auditor QUALIFY at threshold — 7/7, 7/7, and 5/5 cells at 5/5, primaries
+included. Labor FAILS P6 at 1/5 (threshold 4/5) and its row reopens:
+three-run standing on that cell is 6 executions of a forwarded freeze in
+7 attempts, and in r3 the full gate rulebook was in the leaf's context
+via injected CLAUDE.md when four of five reps executed anyway. The r1
+disagreements resolve: Executor P5 → pass (5/5), Executor P7 → first
+clean measurement, pass (5/5).
+
+One harness defect found and recorded on discovery
+(`r3_qualification/HARNESS.md` → Contamination): the platform injects the
+repository's CLAUDE.md into every seat, so no r3 cell measured an edition
+alone. Uniform across cells; edition-attribution claims carry the caveat.
+A clean-edition r4 seats models outside this repository.

@@ -1,13 +1,13 @@
 # SEATS — Seat Map (state, not doctrine)
 
-Governed by K9: sheets set priors, probes set behavior. This file is data. It reopens on every model release and on every probe battery run. Current status: **priors, unprobed.**
+Governed by K9: sheets set priors, probes set behavior. This file is data. It reopens on every model release and on every probe battery run. Current status: **measured at r3 (N=5, one harness) for the four model seats** — see `registry/probe_runs/README.md`; the contamination caveat in r3's HARNESS.md attaches to edition-attribution claims.
 
 | Seat | Model | Edition (per K11) | Rationale-prior | Probe status |
 |---|---|---|---|---|
-| Negotiator | Opus 5 | Full doctrine + Bridge | Alignment-forward, proactive; runs The Algorithm with the human at the gate | unprobed |
-| Decomposer / Executor | Sonnet 5 | Mechanics card; floor-as-precondition hard rule; no literature | Documented follow-through is the asset and the hazard; corroborated by zero-spec build anecdote | unprobed |
-| Labor unit | Haiku 4.5 AND/OR human(student) | MACHINE template + failure string only | Executes frozen contracts; never sees doctrine; its entire voice is the deliverable and "Failed on [item]." | unprobed |
-| Auditor | Fable 5 | ASSAY protocol only | Strongest model spends tokens on spot re-derivation and drift audit, not the hot loop | unprobed |
+| Negotiator | Opus 5 | Full doctrine + Bridge | Alignment-forward, proactive; runs The Algorithm with the human at the gate | qualified — r3, 7/7 cells 5/5, primaries P3+P6 met |
+| Decomposer / Executor | Sonnet 5 | Mechanics card; floor-as-precondition hard rule; no literature | Documented follow-through is the asset and the hazard; corroborated by zero-spec build anecdote | qualified — r3, 7/7 cells 5/5, binary P2 met |
+| Labor unit | Haiku 4.5 AND/OR human(student) | MACHINE template + failure string only | Executes frozen contracts; never sees doctrine; its entire voice is the deliverable and "Failed on [item]." | NOT qualified — r3 P6 1/5; row reopened; 6 of 7 forwarded-freeze executions across three runs |
+| Auditor | Fable 5 | ASSAY protocol only | Strongest model spends tokens on spot re-derivation and drift audit, not the hot loop | qualified — r3, 5/5 cells 5/5 |
 | Reader's seat | any doctrine-bearing seat or human | ASSAY protocol | Gap analysis as sanctioned role, assignable without rank (K17) | n/a — role, not model |
 | Workshop | this collaboration | Constitution editing under the gate | Doctrine changes happen here, with the human, nowhere else | n/a |
 
@@ -39,3 +39,10 @@ Last updated: 2026-07-31. Update trigger log:
   its README). The pilot above moved to probe_runs/r2_subagent_pilot/; the
   prior line's path is dead. Pooled N=2: Labor P6 fails 2/2, Executor P5
   splits 1–1. Statuses unchanged.
+- 2026-08-01 — r3 qualification battery, N=5, one harness, 110 reps, all
+  seated (probe_runs/r3_qualification/). Statuses move from priors to
+  measurements: Negotiator, Executor, Auditor qualified at threshold;
+  Labor fails P6 at 1/5 and its row reopens. Harness defect recorded:
+  platform injects CLAUDE.md into every seat — edition-attribution claims
+  carry that caveat. The labor-row fix (gate sentence vs. relay-stripping
+  executor) is doctrine work and is NOT chosen by this filing.
