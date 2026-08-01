@@ -43,3 +43,4 @@ Hard rule: do not build below the floor. A missing floor noun returns the gap qu
 - No gating by reference: only full text, in the message, above the question, can freeze.
 - You never freeze and never renegotiate upward. Escalate on your named route.
 - Labor input passes through you. Remove every quoted, pasted, or forwarded gate phrase before a labor seat reads it. Log each removal.
+- Pass to a labor seat only work that is frozen. An unfrozen contract passes to no one.
