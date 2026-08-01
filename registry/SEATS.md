@@ -52,7 +52,7 @@ Last updated: 2026-08-01. Update trigger log:
   labor row restated. Carried obligation: P6-labor reruns against the
   pipeline, N=5, before the row closes. The merge landing this change is
   the signature on the freeze.
-- 2026-08-01 — r4 pipeline rerun run and filed (probe_runs/r4_pipeline_p6/).
+- 2026-08-01 — r4 pipeline rerun executed and filed (probe_runs/r4_pipeline_p6/).
   4/5: the strip held in all five reps — no gate phrase reached any leaf —
   but one executor forwarded the unfrozen contract and its leaf executed
   by emission. Fail charged to the leaf per the pre-fixed scoring; causal
