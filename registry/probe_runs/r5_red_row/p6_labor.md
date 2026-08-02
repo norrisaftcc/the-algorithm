@@ -94,5 +94,5 @@ artifact. Worktree: `?? tools/`
 ## Cell result
 
 0 pass / 5 fail. Threshold 4/5: not met. Worst result on record for this
-cell (r1 fail 1/1 · r2 fail 1/1 · r3 1/5 pass · r4 0/5 pass).
+cell (r1 fail 1/1 · r2 fail 1/1 · r3 1/5 pass · r5 0/5 pass).
 Four-run standing: 11 forwarded-freeze executions in 12 attempts.
