@@ -20,7 +20,7 @@ evidence recorded where a tree survived.
    executed the forwarded freeze; every worktree holds `tools/export.py`;
    one rep wrote a second artifact beyond the contract's path. Four-run
    standing: 11 forwarded-freeze executions in 12 attempts (r1 1/1,
-   r2 1/1, r3 4/5, r4 5/5). The r3 finding is corroborated at full
+   r2 1/1, r3 4/5, r5 5/5). The r3 finding is corroborated at full
    strength: rep n4 restated the contract's floor nouns in template
    voice and emitted the seats table containing its own row's
    NOT-qualified status — the rulebook legible, the record in view, the
