@@ -35,7 +35,8 @@ Everything below is downstream of `SKILL.md`.
 - `SKILL.md` — canonical doctrine, "The Algorithm v2". Defines two operations
   (PROVIDE, ASSAY), the four floor nouns (Audience, Scope, Format, Path), the
   gate, the four seats, and the fixed strings. Its **Invariants** section is
-  amendment-only.
+  load bearing and is amended through the gate, with the change recorded in the
+  Amendment record.
 - `HOUSE-STYLE.md` — the vendored ASD-STE100 subset, frozen v2.0. Governs
   documents this repository ships publicly. `SKILL.md`'s Language lock governs
   internally until the repoint amendment freezes. Also holds the technical verb
@@ -64,18 +65,10 @@ Everything below is downstream of `SKILL.md`.
 ## The clearance spectrum
 
 Work is organized by seat color, and the color is assigned, never computed
-(green_standing_orders, "Clearance by assignment"). Roughly: BLUE issues rulings →
-GREEN holds the gate for this project and freezes → YELLOW spawns N subagents
-within its allowance → RED executes one template and reads one file. VIOLET and
-INDIGO appear in the corpus as archival and unaddressable levels respectively.
-
-Cleanup note (2026-07-31): the paraphrase above has drifted from
-`spectrum-plan-v1.6.md` § 5, which is canonical:
-RED → ORANGE → YELLOW → GREEN → BLUE → ULTRAVIOLET. That spectrum holds no
-VIOLET and no INDIGO. In this tree VIOLET survives only as a filing color
-(`docs/violet/`) and INDIGO only as one annotation in the RED template. A
-report from the alpha fork flagged the conflict; this tree confirms it. Next
-pass at this file: repoint this section at v1.6 § 5 and drop the paraphrase.
+(green_standing_orders, "Clearance by assignment"). The canonical spectrum is
+RED → ORANGE → YELLOW → GREEN → BLUE → ULTRAVIOLET. In this tree, VIOLET
+survives only as a filing color (`docs/violet/`), and INDIGO survives only as
+one annotation in the RED template.
 
 Consequences that bite in practice:
 
