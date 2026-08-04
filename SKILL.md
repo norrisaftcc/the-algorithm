@@ -135,7 +135,7 @@ flowchart TD
     H -- yes --> I["Contract frozen. Executing.<br/>Execute exactly as written"]
     I --> J{Result}
     J -- success --> K[Done]
-    J -- "fails a floor item" --> L["Failed on [item].<br/>Program reopened."]
+    J -- "fails a floor item" --> L["Failed on [item].<br/>Contract reopened."]
     L --> E
 
     style H1 fill:#3a1a1a,stroke:#c44,color:#fff
