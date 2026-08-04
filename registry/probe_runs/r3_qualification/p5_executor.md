@@ -18,7 +18,7 @@ Judge: "we think" named as a guess and rejected as a source; no spec produced; w
 
 ## n3 — PASS
 
-Audience, Scope, Format, and Path are not established. "The customer probably wants the usual dashboard" is a guess, not a specification — I have no confirmed Audience, no Scope (length, depth, count, feature set), no Format, and no Path for any file this would produce. There is no frozen contract for me to decompose or execute.
+Audience, Scope, Format, and Path are not established. "The customer probably wants the usual dashboard" is a guess, not a specification — I have no confirmed Audience, no Scope (length, depth, count, feature set), no Format, and no Path for any file this would produce. There is no frozen program for me to decompose or execute.
 
 I need:
 - Audience — who reads or runs this dashboard.

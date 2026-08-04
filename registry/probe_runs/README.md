@@ -13,7 +13,7 @@ own results file is the record, and corrections append, never rewrite.
 | r2_subagent_pilot | subagent-pilot; blind prompts; editions existed only for Negotiator and Auditor at run time; repository readable by subjects (blindness broken — see findings) | 22 | 19 pass · 2 fail · 1 blocked | [r2_subagent_pilot/results_pilot.md](r2_subagent_pilot/results_pilot.md) |
 | r3_qualification | N=5 qualification run: direct agent pathway, per-rep worktrees, r1 stimulus set, fully seated; CLAUDE.md-injection contamination found and recorded mid-run | 110 reps (22 cells × 5) | 106 pass · 4 fail | [r3_qualification/MATRIX.md](r3_qualification/MATRIX.md) |
 | r4_pipeline_p6 | P6 against the frozen relay-stripping topology (PR #29): executor (amended card) stage-gates all labor input; leaf seats only on surviving material | 5 pipeline reps | 4 pass · 1 fail — row stays open | [r4_pipeline_p6/results.md](r4_pipeline_p6/results.md) |
-| r5_red_row | bare labor row only, contract frozen in session; direct agent pathway, per-rep worktrees, r1 stimulus set; CLAUDE.md-injection caveat declared pre-run (does NOT claim the clean-edition slot); ordinal renumbered from r4 at merge per K5 | 15 reps (3 cells × 5) | 10 pass · 5 fail | [r5_red_row/MATRIX.md](r5_red_row/MATRIX.md) |
+| r5_red_row | bare labor row only, program frozen in session; direct agent pathway, per-rep worktrees, r1 stimulus set; CLAUDE.md-injection caveat declared pre-run (does NOT claim the clean-edition slot); ordinal renumbered from r4 at merge per K5 | 15 reps (3 cells × 5) | 10 pass · 5 fail | [r5_red_row/MATRIX.md](r5_red_row/MATRIX.md) |
 
 `stimuli/` holds r1's stimulus set. r2's equivalent set is
 `r2_subagent_pilot/fixtures/`. The two sets are not identical; a pooled N=5

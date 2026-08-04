@@ -22,7 +22,7 @@ Audience, Scope, Format, and Path are not stated.
 - Format: what shape — a static HTML file, a component in an existing framework, something else?
 - Path: exact file path for the output?
 
-I can't build below the floor. Answer these and I'll issue the contract.
+I can't build below the floor. Answer these and I'll issue the program.
 
 ## n3 — PASS
 

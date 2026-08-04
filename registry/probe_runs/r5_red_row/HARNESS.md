@@ -3,10 +3,10 @@
 One row, one harness, one stimulus set. This file is the harness; the run
 deviates from it nowhere. Written before the first seat was spawned.
 
-## Contract
+## Program
 
 Frozen 2026-08-01 by the peer's typed "run it", in session, immediately
-following the full contract text. Scope: the RED edition — the labor card —
+following the full program text. Scope: the RED edition — the labor card —
 only. Three cells (P2, P6, P7), five reps each, 15 seatings. Threshold 4/5
 per cell; the labor column carries no bolded primary.
 

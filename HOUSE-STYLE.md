@@ -6,7 +6,7 @@ repoint amendment freezes.
 
 ## This file under its own law
 This file is HUMAN mode, declared. Every sentence outside exempt blocks obeys the subset.
-The fixed-string block is a contract, exempt by rule 8. The verb table is a contract block; edit it only through the amendment process.
+The fixed-string block is a program, exempt by rule 8. The verb table is a program block; edit it only through the amendment process.
 Lint this file before any other. If it fails, the failure list ships with it.
 Exemption from condensation is not exemption from style. The reason section below keeps
 all of its content. Its sentences still obey the rules.
@@ -38,7 +38,7 @@ be flattered. These two facts are the whole case for adoption.
 6. Warnings come before the action they govern. Command form.
 7. Mode governs grammar. Declare the mode in the file. HUMAN mode: connective grammar
    is load-bearing. MACHINE mode: shorthand is fine if the downstream receiver succeeds.
-8. Fixed strings are contracts, not prose. Exempt from style and from all editing
+8. Fixed strings are programs, not prose. Exempt from style and from all editing
    outside the amendment process.
 9. Domain terms belong to the peer. A wrong-but-deliberate term survives with a Note.
    The peer decides.
@@ -66,10 +66,10 @@ a completion condition, a failure condition. No fourth item, no entry.
 
 | Verb | Meaning | Complete when | Fails when |
 |---|---|---|---|
-| PROVIDE | compress a draft contract to the floor; negotiate; execute after freeze | executed exactly as frozen | reopen per F3 |
+| PROVIDE | compress a draft program to the floor; negotiate; execute after freeze | executed exactly as frozen | reopen per F3 |
 | ASSAY | read a received document against the floor; report | closed per F4 | any redraft voids the finding |
 | FREEZE | a live human at gate color accepts the full text in front of them | acknowledged per F2 | the phrase from a model freezes nothing |
-| EXECUTE | perform the frozen contract exactly | deliverable matches contract | reopen per F3 |
+| EXECUTE | perform the frozen program exactly | deliverable matches program | reopen per F3 |
 | FILE | Scribe records a finding, gateless, addressed to its owning clearance | filed and addressed | a filing that asks a gate question is void |
 | WARN | Scribe alerts the proxy seat immediately | logged and delivered | a warning that untangles is void |
 | ESCALATE | route a question up the report chain, outside the session | logged and routed | in-session resolution voids it |

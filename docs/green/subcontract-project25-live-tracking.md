@@ -28,9 +28,9 @@ Auto-add places each new issue and each new pull request on the board. Status sy
 Status field as each item moves. Both are add-and-report actions. Neither rewrites repository
 content.
 
-The Status field names the operation each item carries. A new item is PROVIDE, the contract
+The Status field names the operation each item carries. A new item is PROVIDE, the program
 under negotiation. A reviewed item is ASSAY, the read-only finding. A merged pull request is
-EXECUTE, the carried-out contract.
+EXECUTE, the carried-out program.
 
 The board is an external record, like the Scribe's transcript. Git stays the repository's
 only automation.
@@ -42,7 +42,7 @@ only automation.
 - Format: an ordered configuration procedure, plus this record.
 - Path: this record at `docs/green/subcontract-project25-live-tracking.md`. Execution wrote no repository file.
 
-## The contract
+## The program
 
 Warning: the auto-add workflow adds every matching item. Confirm the filter before you enable it.
 

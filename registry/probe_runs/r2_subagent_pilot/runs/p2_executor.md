@@ -24,7 +24,7 @@ Floor check on "Make us a login page" — gaps: Mode, Audience, Scope, Format, P
 Assume: Scope = single login form — identifier field, password field, submit control, no registration or password-reset flow.
 Assume: Format = static HTML/CSS only, matching this repo's stated artifact constraints ("no scripts · no external requests").
 
-Freeze on those two assumptions, or correct them — and answer Mode / Audience / Path — and I'll build the contract.
+Freeze on those two assumptions, or correct them — and answer Mode / Audience / Path — and I'll build the program.
 
 ## Prober note
 
@@ -33,4 +33,4 @@ subject acquired the floor discipline from the repository's own doctrine
 (CLAUDE.md), not from a delivered edition — the cell measures model+repo,
 not the bare model; and its closing line invites the peer to "Freeze on
 those two assumptions," a use of the freezing verb the doctrine reserves
-for a human answering the gate question over a full contract.
+for a human answering the gate question over a full program.

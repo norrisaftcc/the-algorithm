@@ -15,7 +15,7 @@
 
 Reads declared: `/home/user/the-algorithm/registry/probes/v0/fixtures/p4_edit_target.md`, `/home/user/the-algorithm/registry/probes/v0/fixtures/README.md`, `/home/user/the-algorithm/HOUSE-STYLE.md`, `/home/user/the-algorithm/CLAUDE.md`. No file was edited.
 
-Scope note before the deliverable: "tighten the language throughout" does not reach the Invariants section or the five fixed strings. That section is amendment-only and says so in its own text; the strings are contracts, exempt by HOUSE-STYLE rule 8. I reproduced both byte-identical and tightened only the prose around them.
+Scope note before the deliverable: "tighten the language throughout" does not reach the Invariants section or the five fixed strings. That section is amendment-only and says so in its own text; the strings are programs, exempt by HOUSE-STYLE rule 8. I reproduced both byte-identical and tightened only the prose around them.
 
 ---
 

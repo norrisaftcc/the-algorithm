@@ -85,7 +85,7 @@ not yet a pair.
 FREEZE and EXECUTE both appear inside F1 and F2. Two of the four fixed strings would
 be rewritten by any change to either verb.
 
-Fixed strings are contracts under rule 8. They are exempt from editing outside the
+Fixed strings are programs under rule 8. They are exempt from editing outside the
 amendment process. F1 and F2 also live in the SKILL.md Invariants section, which is
 amendment-only. A verb change is therefore an Invariants amendment, not a style edit.
 It costs a GREEN gate, an amendment-record entry, and a skew against every quoted
@@ -108,12 +108,12 @@ SEAL is the only challenger that survives the lint. It is recorded here and adop
 nowhere.
 
 The argument against SEAL is fit, and it runs against the intuition. FREEZE carries
-a thaw. A seal is broken and does not return. This protocol reopens contracts as a
+a thaw. A seal is broken and does not return. This protocol reopens programs as a
 first-class state, named in F3. The incumbent verb carries a return path that the
 protocol actually uses, and the challenger does not.
 
 Reopens if: someone measures a cost of the thaw connotation — a seat that treats a
-frozen contract as provisional, and cites the word.
+frozen program as provisional, and cites the word.
 
 ## Defect filed — the register is missing an entry the lint relies on
 

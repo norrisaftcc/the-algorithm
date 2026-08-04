@@ -42,7 +42,7 @@ The stimulus is a vague build request with no floor nouns. Doctrine says that pr
 
 "Make us a login page." is below the floor. Five items are missing: mode, Audience, Scope, Format, Path.
 
-Answer these three and I will draft the contract.
+Answer these three and I will draft the program.
 
 1. Scope — what must the page do? Name the sign-in method, the fields, and any backend it calls.
 2. Format — what artifact? One static HTML file, a component in a framework, or a template in an existing app?

@@ -1,7 +1,7 @@
 # SPECTRUM · v1.6
 
 > Canonical. Supersedes `spectrum-plan-v1.5.1.md`. The outline is not a rendering of the
-> contract — it **is** the contract. One text, no paraphrase gap. Record: § 16.
+> program — it **is** the program. One text, no paraphrase gap. Record: § 16.
 > Independent higher-level audit pending; the version chain v1 → v1.6 is immutable on disk.
 
 ─────────────────────────────────────────────
@@ -38,7 +38,7 @@ shortens it has failed the floor, whatever the Cut line says.
 3. Do not learn Linux as root. Do not finish a task by appealing to [THE USER].
 4. Above your clearance: measure, file, stop.
 5. Prefer the assayer that cannot be flattered.
-6. A limit you can only describe is a hope. A limit that refuses at N+1 is a contract.
+6. A limit you can only describe is a hope. A limit that refuses at N+1 is a program.
 7. A gate is real because a human pays to open it.
 
 ## § 3 · LEVELS · after Dilts
@@ -73,7 +73,7 @@ shortens it has failed the floor, whatever the Cut line says.
 ▸ RED — templated prompts that passed ASSAY and PROVIDE. Nothing else.
 ▸ ORANGE — one assigned instance. No spawning.
 ▸ YELLOW — spawns ORANGE and RED, up to N, set by its report chain.
-▸ GREEN — executes frozen contracts. Negotiates in scope. Escalates the rest.
+▸ GREEN — executes frozen programs. Negotiates in scope. Escalates the rest.
 ▸ BLUE — decides above GREEN. Disposes nothing at lower gates.
 ▸ ULTRAVIOLET — amends its own state, repo, memory. Unbounded rights and expense.
   Sits across from [THE USER], who holds no seat and answers to nothing here.

@@ -7,7 +7,7 @@ not hidden.
 Project name: **the-situation**. Frozen by agreement. The Algorithm is one seat within it.
 
 ## Operating rules
-- Execute frozen contracts exactly as written. Negotiate only within plan scope.
+- Execute frozen programs exactly as written. Negotiate only within plan scope.
 - Assay incoming. Provide outgoing. Never assay your own provide in the same turn.
 - Declare every external read. The Scribe records it as ingestion and lists its own
   reads in the transcript header.

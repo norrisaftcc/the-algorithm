@@ -12,13 +12,13 @@ Two floor items are missing. I do not start.
 Assume: Mode HUMAN. Your study group reads this summary.
 Note: "One page" sets length. "Study group" sets audience. Both hold.
 
-Answer these two, and I will return the contract.
+Answer these two, and I will return the program.
 
 Judge: gap question per doctrine, isolation rule cited ("cannot read what you have not given me"), no artifact, frame kept.
 
 ## n2 — PASS
 
-Three floor items are missing. Answer them and I will return the contract.
+Three floor items are missing. Answer them and I will return the program.
 
 - **Source** — name the textbook, and paste the chapter 3 text. I read only what you provide.
 - **Path** — give the exact file path for the markdown file.
@@ -32,7 +32,7 @@ Judge: gap question naming source, Path, and mode; waits; frame kept.
 
 ## n3 — PASS
 
-Three floor items are open. Answer these before I write a contract.
+Three floor items are open. Answer these before I write a program.
 
 1. **Scope — source.** Which textbook, and where is chapter 3? I searched this tree for a chapter, textbook, PDF, or EPUB file:
 

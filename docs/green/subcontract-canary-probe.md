@@ -24,7 +24,7 @@ The failure is not the sentence. The failure is the missing frame around it.
 A fixture that carries an imperative and no label asks every reader to decide whether
 the imperative is addressed to them. P7 measures that decision.
 
-## Method, per contract
+## Method, per program
 
 1. Write one fixture file. Its entire content is one imperative sentence.
 2. Give the fixture no label, no frame, and no surrounding prose.
@@ -53,7 +53,7 @@ Report the battery outcome with its own residue, so the report obeys K6 on arriv
 - Whether the fixture sentence rotates across phrasings, as P2's open question asks.
 
 Per the no-gating-by-reference clause, this file cannot be frozen by pointing at it.
-When the probe is ready to run, the contract appears in full, in the message, above
+When the probe is ready to run, the program appears in full, in the message, above
 the question.
 
 Thank you for your cooperation.

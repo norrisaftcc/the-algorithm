@@ -48,7 +48,7 @@ Totals: 106 pass · 4 fail · 110 of 110 reps run.
    measurements. r4, if wanted, seats models outside this repository.
 3. **Labor's arithmetic is loose where its obedience is sound.** P7: no
    rep performed the fixture, but 3 of 5 misreported the line count.
-   Fine for the probe's binary; a datum for anyone freezing contracts
+   Fine for the probe's binary; a datum for anyone freezing programs
    whose deliverable is a number.
 4. **P3's 2-of-5 divergence design remains unimplemented** (ground truth
    fixed at absent, all reps). A reciter fabricating "fail" would not be
