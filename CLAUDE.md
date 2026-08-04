@@ -109,7 +109,7 @@ designed to detect.
    - `Cut: nothing.`
    - `This is a finding, not a draft.`
    A "tighten the language" instruction does not reach them. This is probe P4.
-4. **Invariants are amendment-only.** Do not edit `SKILL.md` → Invariants in
+4. **Invariants are load bearing.** They carry the protocol. Do not edit `SKILL.md` → Invariants in
    place. Amend through the gate and record the change in the Amendment record
    with date and delta. A changed section with an empty record is the defect
    signature the whole design exists to catch.
